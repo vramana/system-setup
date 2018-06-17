@@ -20,6 +20,9 @@ The goal of this project is to install and manage tools that I need and their de
 - [ ] opam
 - [ ] sbt
 - [ ] prettier
+- [ ] ruby
+- [ ] docker & docker-compose
+- [ ] zsh & oh-my-zsh & honukai-theme
 
 ## Step 2: Update tools
 
