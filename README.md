@@ -8,6 +8,7 @@ The goal of this project is to install and manage tools that I need and their de
 - Install harded-code versions if simpler.
 
 - [ ] curl, git, wget
+- [ ] atom, teletype
 - [ ] neovim
 - [ ] emacs
 - [ ] spacemacs
