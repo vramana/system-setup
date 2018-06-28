@@ -3,7 +3,7 @@
 The goal of this project is to install and manage tools that I need and their dependencies if any.
 
 
-## Step 1: Install tools  
+## Step 1: Install tools
 
 - Install harded-code versions if simpler.
 
@@ -12,6 +12,7 @@ The goal of this project is to install and manage tools that I need and their de
 - [ ] neovim
 - [ ] emacs
 - [ ] spacemacs
+- [x] clang
 - [ ] go
 - [ ] google-chrome (dev channel)
 - [ ] yarn
